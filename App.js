@@ -22,3 +22,5 @@ const styles = StyleSheet.create({
   },
   
 });
+
+// App.js will have a HEADER & BikeList component.
